@@ -25,7 +25,7 @@ SECRET_KEY = '$i+x)%e7v@st^9z7i#d%q+rgxf!=rmg2inu@osw(u_m=4hwn5v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<sophiereb>.pythonanywhere.com' ]
+ALLOWED_HOSTS = ['127.0.0.1', 'sophiereb.pythonanywhere.com' ]
 
 
 # Application definition
